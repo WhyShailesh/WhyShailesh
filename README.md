@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"  />
+</p>
 # 💫 About Me:
 I’m passionate about AI, automation, and solving real-world problems with technology.<br>My journey so far has involved working with tools like n8n, exploring machine learning, and building efficient workflows powered by Python.<br><br>As a Python developer, I focus on:<br><br>        • Writing clean and efficient code<br><br>        • Building tools that simplify work<br><br>        • Experimenting with AI/ML models<br><br>        • Creating automation systems that bring everything together<br><br>I love collaborating, learning, and sharing ideas always excited to build smarter solutions!
 
