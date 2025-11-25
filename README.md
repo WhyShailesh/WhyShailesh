@@ -12,8 +12,7 @@
 ## ⚡ About Me  
 <p>
 I’m passionate about <span style="color:#00eaff;">Artificial Intelligence</span>,  
-<span style="color:#ffae00;">automation</span>, and building solutions that solve real-world problems.<br><br>
-
+<span style="color:#ffae00;">automation</span>, and building solutions that solve real-world problems.
 My journey includes working with tools like <span style="color:#00ff99;">n8n</span>, exploring 
 <span style="color:#e44fff;">machine learning</span>, and developing efficient workflows powered by 
 <span style="color:#00eaff;">Python</span>.
