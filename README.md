@@ -3,26 +3,20 @@
   <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
 </p>
 
-<!-- Name / Intro -->
-<!-- Name / Intro -->
-<!-- Name / Intro -->
-<!-- Name / Intro -->
+
 <h1 align="center" style="white-space: nowrap;">
   👋 Hi, I'm 
   <span style="color:#00eaff;">Shailesh Yadav</span>
 
   <a href="https://shailesh.space" target="_blank" 
-     style="text-decoration:none; margin-left:12px; font-size:20px; white-space: nowrap;">
-    <span style="color:#00eaff; font-weight:600;">
-      Portfolio ↗
-    </span>
-
+     style="text-decoration:none; margin-left:12px; vertical-align:middle; display:inline-flex; align-items:center; gap:4px;">
+    <span style="color:#00eaff; font-weight:600;">Portfolio</span>
+  
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="#00eaff" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7 17L17 7M17 7H9M17 7V15" stroke="#00eaff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
   </a>
 </h1>
-
-<h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
-
-
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
 ---
@@ -105,4 +99,4 @@ I love collaborating, learning, and building smarter solutions every day.
 [![](https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-<!-- Proudly enhanced by ChatGPT & originally generated using GPRM -->
+
