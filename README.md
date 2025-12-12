@@ -37,22 +37,25 @@ I love collaborating, learning, and building smarter solutions every day.
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/whyshailesh">
+
+  <a href="https://linkedin.com/in/whyshailesh" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://x.com/WhyShailesh">
-    <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white"/>
+  <a href="https://x.com/WhyShailesh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>
 
-  <a href="mailto:Ys06022000@gmail.com">
+  <a href="mailto:Ys06022000@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://shailesh.space" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00eaff?style=flat&logo=icloud&logoColor=white"/>
+  <a href="https://shailesh.space" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white"/>
   </a>
+
 </p>
+
 
 ---
 
