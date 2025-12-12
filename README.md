@@ -5,19 +5,22 @@
 
 <!-- Name / Intro -->
 <!-- Name / Intro -->
+<!-- Name / Intro -->
 <h1 align="center">
   👋 Hi, I'm 
   <span style="color:#00eaff;">Shailesh Yadav</span>
 
   <a href="https://shailesh.space" target="_blank" 
      style="text-decoration:none; margin-left:10px; font-size:18px;">
-
     <span style="color:#00eaff; font-weight:600;">
       Portfolio<sup style="font-size:12px; margin-left:2px;">˃</sup>
     </span>
 
   </a>
 </h1>
+
+<h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
+
 
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
