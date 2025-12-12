@@ -4,7 +4,16 @@
 </p>
 
 <!-- Name / Intro -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span></h1>
+<h1 align="center">
+  👋 Hi, I'm 
+  <span style="color:#00eaff;">Shailesh Yadav</span>
+  <a href="https://shailesh.space" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/00eaff/arrow.png" 
+         width="22" 
+         style="margin-left:8px; vertical-align:middle;" 
+         alt="arrow icon"/>
+  </a>
+</h1>
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
 ---
