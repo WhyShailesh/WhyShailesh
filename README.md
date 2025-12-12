@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center"> <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/> </p>
-<h1 align="center" style="font-size:36px; font-weight:700; margin:18px 0;">
+<p align="center" style="font-size:36px; font-weight:700; margin:18px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span>&nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank" rel="noopener" 
@@ -8,7 +8,7 @@
       Portfolio &#8599;
     </a>
   </span>
-</h1>
+</p>
 
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
