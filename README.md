@@ -1,4 +1,5 @@
 <!-- Banner -->
+<p align="center"> <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/> </p>
 <p align="center" style="font-size:32px; font-weight:700; margin:18px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span>&nbsp;&nbsp;
