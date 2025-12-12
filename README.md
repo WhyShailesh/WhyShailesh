@@ -4,17 +4,15 @@
 </p>
 
 
-<div align="center" style="font-size:32px; font-weight:700; white-space:nowrap;">
+<h3 div align="center" style="font-size:32px; font-weight:700;">
   👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span>
 
-  <a href="https://shailesh.space" target="_blank" 
-     style="text-decoration:none; margin-left:15px;">
-    <span style="color:#00eaff; font-weight:600;">
-      Portfolio →
-    </span>
-
+  <a href="https://shailesh.space" target="_blank"
+     style="text-decoration:none; margin-left:15px; font-size:20px; font-weight:600; color:#00eaff;">
+    Portfolio ↗
   </a>
-</div>
+</h3>
+
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
 ---
