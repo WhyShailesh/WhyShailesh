@@ -1,18 +1,12 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
+<p align="center" style="font-size:32px; font-weight:700; margin:18px 0;">
+  <span style="white-space:nowrap;">
+    👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span>&nbsp;&nbsp;
+    <a href="https://shailesh.space" target="_blank" rel="noopener" style="color:#00eaff; text-decoration:none; font-weight:600;">
+      Portfolio &#8599;
+    </a>
+  </span>
 </p>
-
-
-<h3 div align="center" style="font-size:32px; font-weight:700;">
-  👋 Hi, I'm <span style="color:#00eaff;">Shailesh Yadav</span>
-
-  <a href="https://shailesh.space" target="_blank"
-     style="text-decoration:none; margin-left:15px; font-size:20px; font-weight:600; color:#00eaff;">
-    Portfolio ↗
-  </a>
-</h3>
-
 <h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
 ---
