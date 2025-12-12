@@ -49,7 +49,7 @@ I love collaborating, learning, and building smarter solutions every day.
   </a>&#8203;&#8203;&#8203;
 
   <a href="https://shailesh.space" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=vercel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
   </a>
 
 </p>
