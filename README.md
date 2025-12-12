@@ -34,9 +34,8 @@ I love collaborating, learning, and building smarter solutions every day.
 </p>
 
 ---
-
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="left" style="text-decoration:none;">
 
   <a href="https://linkedin.com/in/whyshailesh" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
@@ -51,10 +50,11 @@ I love collaborating, learning, and building smarter solutions every day.
   </a>
 
   <a href="https://shailesh.space" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0088aa.svg?style=flat&logo=vercel&logoColor=white"/>
   </a>
 
 </p>
+
 
 
 ---
