@@ -1,18 +1,28 @@
-<!-- Banner -->
-<p align="center"> <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/> </p>
-<p align="center" style="font-size:100px; font-weight:700; margin:18px 0;">
+<p align="center">
+  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fad0c4&height=80&section=header&text=Welcome!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+
+<p align="center" style="font-size:150px; font-weight:700; margin:8px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
-    <a href="https://shailesh.space" target="_blank" rel="noopener" 
+    <a href="https://shailesh.space" target="_blank" rel="noopener"
        style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
       Portfolio &#8599;
     </a>
   </span>
 </p>
 
-<h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
 
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
+  </a>
+</p>
 
 ## ⚡ About Me  
 <p>
@@ -21,7 +31,9 @@ I’m passionate about <span style="color:#00eaff;">Artificial Intelligence</spa
 My journey includes working with tools like <span style="color:#00ff99;">n8n</span>, exploring 
 <span style="color:#e44fff;">machine learning</span>, and developing efficient workflows powered by 
 <span style="color:#00eaff;">Python</span>.
+</p>
 
+<p>
 I focus on:
 <ul>
   <li>⚙️ Writing clean, efficient, production-ready code</li>
@@ -29,31 +41,28 @@ I focus on:
   <li>🧠 Experimenting with AI/ML models</li>
   <li>🔧 Creating tools that simplify tasks and save time</li>
 </ul>
-
-I love collaborating, learning, and building smarter solutions every day.
 </p>
 
 ## 🌐 Connect with Me  
-<p align="left" style="text-decoration:none;">
+<p align="left">
 
-  <a href="https://linkedin.com/in/whyshailesh" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/whyshailesh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
 
-  <a href="https://x.com/WhyShailesh" style="text-decoration:none;">
+  <a href="https://x.com/WhyShailesh">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
 
-  <a href="mailto:Ys06022000@gmail.com" style="text-decoration:none;">
+  <a href="mailto:Ys06022000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
 
-  <a href="https://shailesh.space" style="text-decoration:none;">
+  <a href="https://shailesh.space">
    <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
   </a>
 
 </p>
-
 
 ## 🛠️ Tech Stack  
 <p align="left">
@@ -92,15 +101,16 @@ I love collaborating, learning, and building smarter solutions every day.
 
 </p>
 
----
-
-## 📊 GitHub Analytics  
+📊 GitHub Analytics  
 <p align="center">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br><br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=WhyShailesh&theme=neon&hide_border=false)<br><br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 [![](https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
