@@ -112,5 +112,4 @@ I focus on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyShailesh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 [![](https://visitcount.itsvg.in/api?id=WhyShailesh&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:7f00ff&height=120&section=footer"/>
