@@ -22,10 +22,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00EAFF&lines=AI+%26+Automation+Enthusiast;Python+Developer;Workflow+Engineer;Building+Smart+Automation"/>
   </a>
+<p style="font-size:44px; font-weight:900; margin:30px 0 8px 0;">
+  ⚡ About Me
 </p>
 
-## ⚡ About Me  
-<p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p
 I’m passionate about <span style="color:#00eaff;">Artificial Intelligence</span>,  
 <span style="color:#ffae00;">automation</span>, and building solutions that solve real-world problems.
 My journey includes working with tools like <span style="color:#00ff99;">n8n</span>, exploring 
