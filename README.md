@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/WhyShailesh/WhyShailesh/main/whyshailesh.gif" alt="Banner"/>
 </p>
 
 <p align="center">
