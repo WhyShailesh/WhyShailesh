@@ -1,5 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/WhyShailesh/WhyShailesh/main/whyshailesh.gif" alt="Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/WhyShailesh/WhyShailesh/main/whyshailesh.gif"
+    alt="Banner"
+    width="100%"
+    style="height:350px; object-fit:cover; object-position:center;"
+  />
 </p>
 
 <p align="center">
